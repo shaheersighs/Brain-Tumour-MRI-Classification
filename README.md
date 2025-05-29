@@ -3,7 +3,7 @@
 
 This project presents an end-to-end deep learning solution for the classification of brain MRI images into four clinically relevant categories: glioma, meningioma, pituitary tumor, and no tumor. The workflow is grounded in the Kaggle “Brain Tumor MRI Dataset” by Masoud Nickparvar and implements a series of professional image processing, augmentation, and explainability techniques. The objective is to demonstrate a reproducible, robust, and interpretable computer vision pipeline suitable for medical image analysis.
 
-![image](https://github.com/user-attachments/assets/7e0d3ec4-ddc8-471b-98c0-d4d85b05ad89) | ![image](https://github.com/user-attachments/assets/949c90d5-02c4-4927-bb42-9985779247ef)
+![image](https://github.com/user-attachments/assets/7e0d3ec4-ddc8-471b-98c0-d4d85b05ad89)  ![image](https://github.com/user-attachments/assets/949c90d5-02c4-4927-bb42-9985779247ef)
 
 
 
